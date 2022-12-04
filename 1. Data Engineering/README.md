@@ -2,7 +2,11 @@
 
 <https://www.theforage.com/modules/ThbphD5N5WRsd9Mxo/PDif4RapHRZLHb4gT?ref=SfSqDihCcvSen4csq>
 
-## Background information
+## Instruction
+
+<p><a href="https://www.theforage.com?wvideo=q1uryvfab8"><img src="https://embed-ssl.wistia.com/deliveries/3cf886bf45d386e17ec0fc19b80968493bb3432c.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=54bbffe0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://www.theforage.com?wvideo=q1uryvfab8">Task1</a></p>
+
+## Background
 
 At GE Aviation, we use the concept of a “Data Lake”. A Data Lake is a single database instance that contains data from all around Aviation. Everything from financial, delivery (of parts and engines), supplier, engine data, customer data, and so on.
 
